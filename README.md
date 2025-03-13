@@ -2,8 +2,8 @@
 # CloudMart Project Documentation
 
 
+![CHALLENGE-ARCHITECTURE](https://github.com/user-attachments/assets/d30c6071-f62b-4765-a2d9-3d0b215b2e85)
 
-<img width="1440" alt="Screenshot 2025-03-12 at 02 20 46" src="https://github.com/user-attachments/assets/b6d8de0f-9b59-4aee-930f-57e232df8a41" />
 
 
 ## Problem Statement
